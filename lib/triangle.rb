@@ -1,4 +1,4 @@
-class Triangle 
+class Triangle
   attr_accessor :side1, :side2, :side3
   @sides = []
 
@@ -48,4 +48,3 @@ end
 class TriangleError < StandardError
 
 end
-
